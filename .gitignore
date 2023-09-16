@@ -1,0 +1,5 @@
+# Ignore _pycache directories
+__pycache__/
+
+# Ignore all files with .bin extension
+*.bin
