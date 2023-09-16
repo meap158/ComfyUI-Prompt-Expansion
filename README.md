@@ -5,7 +5,7 @@ Based on my testing, it's evident that incorporating additional keywords generat
 Many thanks to the authors of the Fooocus project for generously providing most of the code.
 
 ## Installation
-- To install this custom node for ComfyUI, clone the repository using Git or download it, and then copy the node files to: ComfyUI\custom_nodes\ComfyUI-GPU-temperature-protection
+- To install this custom node for ComfyUI, clone the repository using Git or download it, and then extract the node files to: ComfyUI\custom_nodes\ComfyUI-Prompt-Expansion
 ```
 https://github.com/meap158/ComfyUI-Prompt-Expansion.git
 ```
