@@ -16,7 +16,7 @@ To use this custom node (located within the 'utils' submenu), simply connect you
 You can also load the example workflow by dragging the workflow file (workflow_example.json or workflow_example.png) onto ComfyUI.
 
 <p float="left">
-  <img src="" width="300" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/14327094/268447933-d5d60985-3ddf-43a9-b8f0-42b65118a409.png" width="1000" />
 </p>
 
 ## Inputs
