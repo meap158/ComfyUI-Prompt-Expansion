@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-prompt-expansion"
+description = "Dynamic prompt expansion, powered by GPT-2 locally on your device."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/meap158/ComfyUI-Prompt-Expansion"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Prompt-Expansion"
+Icon = ""
